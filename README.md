@@ -69,7 +69,6 @@ java -cp out:gson-2.8.9.jar Main
 │   │   ├── MonedaEX.java
 │   │   └── RespuestaAPI.java
 ├── gson-2.8.9.jar
-├── tokens.txt (NO se sube)
 ├── .gitignore
 └── README.md
 ```
